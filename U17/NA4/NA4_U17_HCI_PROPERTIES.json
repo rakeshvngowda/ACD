@@ -1,0 +1,94 @@
+{
+	"id": "c74d2df9-fda2-469d-b808-7d1e812e0dcf",
+	"name": "U17_HCI_NA4",
+	"values": [
+		{
+			"key": "env",
+			"value": "na4",
+			"enabled": true
+		},
+		{
+			"key": "lvp_url",
+			"value": "https://portal.na4.livevox.com",
+			"enabled": true
+		},
+		{
+			"key": "lvp_version",
+			"value": "17.0",
+			"enabled": true
+		},
+		{
+			"key": "client_id",
+			"value": "1092815",
+			"enabled": true
+		},
+		{
+			"key": "ClickerAgent",
+			"value": "rakesh",
+			"enabled": true
+		},
+		{
+			"key": "ClickerAgentPass",
+			"value": "livevox3",
+			"enabled": true
+		},
+		{
+			"key": "CloserAgent",
+			"value": "arjun",
+			"enabled": true
+		},
+		{
+			"key": "CloserAgentPass",
+			"value": "lvqapass1",
+			"enabled": true
+		},
+		{
+			"key": "ClientCode",
+			"value": "QAD_U17_NA4_K",
+			"enabled": true
+		},
+		{
+			"key": "extension",
+			"value": "2042027910",
+			"enabled": true
+		},
+		{
+			"key": "ClickerSkillId",
+			"value": "1092839",
+			"enabled": true
+		},
+		{
+			"key": "CloserskillID",
+			"value": "1092833",
+			"enabled": true
+		},
+		{
+			"key": "file_name",
+			"value": "ACT_campaign3_4159.txt",
+			"enabled": true
+		},
+		{
+			"key": "operator_phone",
+			"value": "4156599170",
+			"enabled": true
+		},
+		{
+			"key": "campaignPartitionTemplate",
+			"value": "1049657",
+			"enabled": true
+		},
+		{
+			"key": "strategy_id",
+			"value": "1030512",
+			"enabled": true
+		},
+		{
+			"key": "termcode_input",
+			"value": "102546203",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-07-31T14:23:21.522Z",
+	"_postman_exported_using": "Postman/8.12.5"
+}
